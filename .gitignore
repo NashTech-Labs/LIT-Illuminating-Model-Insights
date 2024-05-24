@@ -1,0 +1,14 @@
+.idea
+__pycache__
+src/model/finetuning-sentiment-model-3000-samples
+models
+src/model/model.zip
+src/model/tokenizer.zip
+huggingface.pkl
+artifacts/
+finetuning-sentiment-model-3000-samples/
+project.yaml
+model.zip
+tokenizer.zip
+#.idea/workspace.xml
+

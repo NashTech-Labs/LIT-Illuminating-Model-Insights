@@ -1,0 +1,9 @@
+onnx~=1.10.1
+onnxruntime~=1.8.1
+optimum~=1.6.4
+transformers~=4.26.1
+datasets~=2.10.1
+scikit-learn~=1.0.2
+pandas==1.5.1
+mlrun==1.6.2 #when you are setting up the lit enviroment, comment out mlrun then install the requirements
+lit-nlp==1.1.1
